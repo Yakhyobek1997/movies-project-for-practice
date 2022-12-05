@@ -13,9 +13,9 @@ class App extends Component {
 		super(props)
 		this.state = {
 			data: [
-				{ name: 'Empire of osman', viewers: 20, favourite: false, like: false, id: 1 },
-				{ name: 'Ertugrul', viewers: 12, favourite: false, like: false, id: 2 },
-				{ name: 'Omar', viewers: 15, favourite: false, like: false, id: 3 },
+				{ name: 'Harry potter', viewers: 20, favourite: false, like: false, id: 1 },
+				{ name: 'Merlin', viewers: 12, favourite: false, like: false, id: 2 },
+				{ name: 'Abdullajon(Uzbek-film)', viewers: 15, favourite: false, like: false, id: 3 },
 			],
 			term: '',
 			filter: 'all',
